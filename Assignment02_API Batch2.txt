@@ -20,4 +20,4 @@ if number is between 80 and 100  and number in maths is >80 print A
 10>WAP in Java to find the sum of all odd number from 12 to 20
 
 
-Hello all 
+Hiii
