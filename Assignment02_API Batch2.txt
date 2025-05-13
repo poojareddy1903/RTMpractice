@@ -21,3 +21,4 @@ if number is between 80 and 100  and number in maths is >80 print A
 
 
 Hiii
+how r u, wru??
